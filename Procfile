@@ -1,1 +1,1 @@
-web: gunicorn SistemaDiscusiones.wsgi
+web: gunicorn calm-stream-9574.wsgi
