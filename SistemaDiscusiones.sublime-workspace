@@ -1,0 +1,1084 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"SOCIA",
+				"SOCIAL_AUTH_FACEBOOK_KEY"
+			],
+			[
+				"au",
+				"auth"
+			],
+			[
+				"cont",
+				"contrib"
+			],
+			[
+				"STAT",
+				"STATICFILES_DIRS"
+			],
+			[
+				"view",
+				"views"
+			],
+			[
+				"LOC",
+				"LOCAL_APPS"
+			],
+			[
+				"rend",
+				"rendtr	render_to_response(...context_instance = RequestContext(request))"
+			],
+			[
+				"addProd",
+				"addProductForm"
+			],
+			[
+				"Model",
+				"ModelForm	ModelForm"
+			],
+			[
+				"categoria",
+				"categoriaProducto"
+			],
+			[
+				"addPro",
+				"addProductForm"
+			],
+			[
+				"bloc",
+				"block	block"
+			],
+			[
+				"lo",
+				"lorem	Lorem ipsum"
+			],
+			[
+				"bl",
+				"block	block"
+			],
+			[
+				"req",
+				"required"
+			],
+			[
+				"EM",
+				"EMAIL_USE_TLS"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"hook_field_formatter",
+				"hook_field_formatter_settings_form	hook_field_formatter_settings_form"
+			],
+			[
+				"field_instance",
+				"field_info_instances"
+			],
+			[
+				"field_map",
+				"field_info_formatter_types"
+			],
+			[
+				"formatter",
+				"field_info_formatter_settings"
+			],
+			[
+				"hook_field_widget_",
+				"hook_field_widget_settings_form	hook_field_widget_settings_form"
+			],
+			[
+				"drupal_get",
+				"drupal_get_path	drupal_get_path"
+			],
+			[
+				"libraries",
+				"libraries_load_files"
+			],
+			[
+				"libreries",
+				"libraries_prepare_files"
+			],
+			[
+				"librar",
+				"libraries_load"
+			],
+			[
+				"librari",
+				"libraries_get_libraries"
+			],
+			[
+				"hook_li",
+				"hook_libraries_info"
+			],
+			[
+				"drupal",
+				"drupal_get_path	drupal_get_path"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"toggle",
+				"toggleClass	jQuery"
+			],
+			[
+				"array_un",
+				"array_unshift"
+			],
+			[
+				"e",
+				"each	jQuery"
+			],
+			[
+				"is_n",
+				"is_numeric"
+			],
+			[
+				"hook_page",
+				"hook_page_alter	hook_page_alter"
+			],
+			[
+				"drupal_get_c",
+				"drupal_get_css"
+			],
+			[
+				"MEN",
+				"MENU_LOCAL_TASK"
+			],
+			[
+				"var",
+				"variable_set	variable_set"
+			],
+			[
+				"blockto",
+				"blocktoggle_options"
+			],
+			[
+				"stru",
+				"strtoupper"
+			],
+			[
+				"hook_form",
+				"hook_form_FORM_ID_alter"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"array_c",
+				"array_combine"
+			],
+			[
+				"array",
+				"array_merge"
+			],
+			[
+				"block",
+				"block_list	block_list"
+			],
+			[
+				"user_p",
+				"user_permission	user_permission"
+			],
+			[
+				"module",
+				"module_list"
+			],
+			[
+				"modu",
+				"module_list"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"module_",
+				"module_implements"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"form",
+				"form_example_tutorial"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"form_api",
+				"form_example_intro"
+			],
+			[
+				"drupal_get_f",
+				"drupal_get_form"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"bo",
+				"bolder"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"drupal_a",
+				"drupal_add_css	drupal_add_css"
+			],
+			[
+				"hoo",
+				"hook_library	hook_library"
+			],
+			[
+				"hook_prep",
+				"hook_preprocess	hook_preprocess"
+			],
+			[
+				"hook_pre",
+				"hook_preprocess_HOOK"
+			],
+			[
+				"get_defi",
+				"get_defined_vars"
+			],
+			[
+				"theme_h",
+				"theme_html_tag	theme_html_tag"
+			],
+			[
+				"array_in",
+				"array_intersect_key"
+			],
+			[
+				"array_",
+				"array_intersect"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"func",
+				"function_exists"
+			],
+			[
+				"call",
+				"call_user_func"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"incl",
+				"incl1	include_once …"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"drupal_set",
+				"drupal_set_message	drupal_set_message"
+			],
+			[
+				"template_preprocess_block",
+				"template_preprocess_block_admin_display_form	template_preprocess_block_admin_display_form"
+			],
+			[
+				"templ",
+				"template_preprocess_node	template_preprocess_node"
+			],
+			[
+				"get_var",
+				"get_defined_vars"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"varie",
+				"variable_set	variable_set"
+			],
+			[
+				"vari",
+				"variable_get	variable_get"
+			],
+			[
+				"DRUPAL_CACHE",
+				"DRUPAL_CACHE_GLOBAL"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/LESS-build/LESS.sublime-build",
+	"command_palette":
+	{
+		"height": 71.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"angula",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: block",
+				"Snippet: block"
+			],
+			[
+				"html5",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"django",
+				"Django: Custom Command"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"Snippet: XML Processing Instruction"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"REMOVE",
+				"Package Control: Remove Package"
+			],
+			[
+				"format",
+				"Format: CoffeeScript"
+			],
+			[
+				"coffee",
+				"Format: CoffeeScript"
+			],
+			[
+				"sni",
+				"Snippet: h_ranking"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 808.0
+	},
+	"console":
+	{
+		"height": 549.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Antonio/Devel/django-1.6/SistemaDiscusiones/requirements.txt",
+		"/Users/Antonio/Devel/django-1.6/SistemaDiscusiones/apps/home/views.py",
+		"/Users/Antonio/Devel/django-1.6/SistemaDiscusiones/SistemaDiscusiones/urls.py",
+		"/Users/Antonio/Devel/django-1.6/SistemaDiscusiones/apps/home/urls.py",
+		"/Users/Antonio/Devel/django-1.6/SistemaDiscusiones/SistemaDiscusiones/settings/base.py",
+		"/Users/Antonio/Devel/django-1.6/SistemaDiscusiones/templates/base.html",
+		"/Users/Antonio/Devel/django-1.6/SistemaDiscusiones/SistemaDiscusiones/settings/local.py",
+		"/Users/Antonio/Devel/django-1.6/SistemaDiscusiones/apps/users/models.py",
+		"/Users/Antonio/Devel/django-1.6/SistemaDiscusiones/apps/users/admin.py",
+		"/Users/Antonio/Devel/django-1.6/SistemaDiscusiones/templates/home/index.html",
+		"/Users/Antonio/Devel/django-1.6/SistemaDiscusiones/SistemaDiscusiones/settings.py",
+		"/Users/Antonio/Devel/django-1.6/SistemaDiscusiones/SistemaDiscusiones/wsgi.py",
+		"/Users/Antonio/Devel/django-1.6/SistemaDiscusiones/.gitignore",
+		"/Users/Antonio/Devel/DevCodeDjango/SistemaDiscusiones/SistemaDiscusiones/settings/local.py",
+		"/Users/Antonio/Devel/DevCodeDjango/SistemaDiscusiones/SistemaDiscusiones/settings/base.py",
+		"/Users/Antonio/Devel/DevCodeDjango/SistemaDiscusiones/SistemaDiscusiones/urls.py",
+		"/Users/Antonio/Devel/DevCodeDjango/requirements.txt",
+		"/Users/Antonio/Devel/DevCodeDjango/.gitignore",
+		"/Users/Antonio/Devel/django-1.6/quecoins5/quecoins/settings_lq.py",
+		"/Users/Antonio/Devel/DevCodeDjango/SistemaDiscusiones/SistemaDiscusiones/settings/settings.py",
+		"/Users/Antonio/Devel/NodeJS/hello_world_http_server.js",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/apps/planguage/urls.py",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/apps/planguage/views.py",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/apps/planguage/templates/planguage.html",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/blogango/views.py",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/apps/planguage/locale/es-es/LC_MESSAGES/django.po",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/apps/planguage/locale/es-es/LC_MESSAGES/django.mo",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/tecp2p/apps/planguage/urls.py",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/tecp2p/apps/planguage/views.py",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/blogango/templates/blogango/base.html",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/tecp2p/templates/blogango/archive_view.html",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/tecp2p/templates/blogango/base.html",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/blogango/templates/blogango/archive_view.html",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/requirements.txt",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/tecp2p/templates/blogango/entry_snippets.html",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/blogango/models.py",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/tecp2p/localsettings.py",
+		"/Users/Antonio/Devel/home-de-djangoeurope/init/quecoins5",
+		"/Users/Antonio/Devel/home-de-djangoeurope/init/cryptocoinsblog",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/tecp2p/settings_deployment.py",
+		"/Users/Antonio/Devel/home-de-djangoeurope/init/tecp2p",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/tecp2p_old/settings.py",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/manage.py",
+		"/Users/Antonio/untitled.html",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/tecp2p/settings.py",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/tecp2p/static/blogango/js/Form.js",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/tecp2p/staticc/blogango/js/Form.js",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/blogango/akismet.py",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/blogango/js/Form.js",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/blogango/static/blogango/js/Form.js",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/blogango/templates/search/search.html",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/blogango/templates/search/search.html~",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/blogango/tests.py",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/tecp2p.sublime-project",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/tecp2p.sublime-workspace",
+		"/Users/Antonio/Devel/virtualenv_dj151/tecp2p/tecp2p/manage.py",
+		"/Volumes/PEN1/modulos gipom/gip_likes/gip_likes.module",
+		"/Volumes/PEN1/modulos gipom/gip_likes/gip_likes.js",
+		"/Volumes/PEN1/modulos gipom/gip_news/gip_news.module",
+		"/Volumes/PEN1/modulos gipom/gip_news/gip_news.js",
+		"/Volumes/PEN1/modulos gipom/gip_autocomplete/gip_autocomplete.module",
+		"/Volumes/PEN1/modulos gipom/gip_autocomplete/gip_autocomplete.js",
+		"/Users/Antonio/Devel/django-1.6/cryptocoinsblog/zinnia/models_bases/entry.py",
+		"/Users/Antonio/Devel/django-1.6/cryptocoinsblog/cryptocoinsblog/settings.py",
+		"/Users/Antonio/Devel/django-1.6/cryptocoinsblog/apps/zinnia_gallery/models.py",
+		"/Users/Antonio/Devel/django-1.6/cryptocoinsblog/apps/extrafields_youtube/models.py",
+		"/Users/Antonio/Devel/django-1.6/cryptocoinsblog/apps/zinnia_gallery/admin.py",
+		"/Users/Antonio/Devel/django-1.6/cryptocoinsblog/apps/extrafields_youtube/admin.py",
+		"/Users/Antonio/Devel/django-1.6/cryptocoinsblog/apps/zinnia_theme_bootstrap/zinnia_bootstrap/templates/zinnia/skeleton.html",
+		"/Users/Antonio/Devel/django-1.6/cryptocoinsblog/apps/zinnia_theme_bootstrap/zinnia_bootstrap/templates/zinnia/entry_detail_base.html",
+		"/Users/Antonio/Devel/django-1.6/cryptocoinsblog/apps/zinnia_theme_bootstrap/zinnia_bootstrap/templates/zinnia/entry_search.html",
+		"/Users/Antonio/Devel/django-1.6/cryptocoinsblog/apps/zinnia_theme_bootstrap/zinnia_bootstrap/templates/zinnia/_entry_detail_base.html",
+		"/Users/Antonio/Devel/django-1.6/cryptocoinsblog/cryptocoinsblog/urls.py",
+		"/Users/Antonio/Devel/django-1.6/cryptocoinsblog/zinnia/views/entries.py",
+		"/Users/Antonio/Devel/django-1.6/cryptocoinsblog/zinnia/views/archives.py",
+		"/Users/Antonio/Devel/django-1.6/cryptocoinsblog/.gitignore",
+		"/Users/Antonio/Devel/django-1.6/cryptocoinsblog/zinnia/templates/admin/zinnia/widgets/base.html",
+		"/Users/Antonio/Devel/django-1.6/cryptocoinsblog/zinnia/settings.py",
+		"/Users/Antonio/Devel/django-1.6/cryptocoinsblog/zinnia/models/entry.py",
+		"/Users/Antonio/Devel/django-1.6/cryptocoinsblog/cryptocoinsblog/templates/zinnia/skeleton.html",
+		"/Users/Antonio/Devel/django-1.6/quecoins5/quecoins/settings.py",
+		"/Users/Antonio/Devel/django-1.6/cryptocoinsblog/cryptocoinsblog/settings_lq.py",
+		"/Users/Antonio/Devel/django-1.6/cryptocoinsblog/cryptocoinsblog/settings_deployment.py",
+		"/Users/Antonio/Devel/django-1.6/quecoins5/quecoins/settings_deployment.py",
+		"/Users/Antonio/Devel/django-1.6/quecoins5/quecoins/urls.py",
+		"/Users/Antonio/Devel/django-1.6/cryptocoinsblog/manage.py",
+		"/Users/Antonio/Devel/django-1.6/quecoins2/manage.py",
+		"/Users/Antonio/Devel/django-1.6/quecoins5/quecoins5/urls.py",
+		"/Users/Antonio/Devel/django-1.6/quecoins5/quecoins5/settings_lq.py",
+		"/Users/Antonio/Devel/django-1.5.5/quecoins2/pybb/forms.py",
+		"/Users/Antonio/Devel/django-1.5.5/quecoins2/quecoins2/settings.py",
+		"/Users/Antonio/Devel/django-1.5.5/quecoins2/quecoins2/templates/registration/activation_email.txt",
+		"/Users/Antonio/Devel/django-1.5.5/quecoins2/quecoins2/settings_env.py",
+		"/Users/Antonio/Devel/home-de-djangoeurope/lighttpd/django.conf",
+		"/Users/Antonio/Devel/django-1.5.5/pybbm/test/example_bootstrap/settings.py",
+		"/Users/Antonio/Devel/django-1.5.5/pybbm/test/example_bootstrap/urls.py",
+		"/Users/Antonio/Devel/django-1.5.5/quecoins2/quecoins2/urls.py",
+		"/Users/Antonio/Devel/home-de-djangoeurope/cosas/settings_env.py",
+		"/Users/Antonio/Devel/django-1.5.5/quecoins2/.gitignore",
+		"/Users/Antonio/Devel/home-de-djangoeurope/init/quecoins2",
+		"/Users/Antonio/Devel/home-de-djangoeurope/init/django",
+		"/Users/Antonio/Devel/django-1.5.5/quecoins2/req-pybb.txt",
+		"/Users/Antonio/Devel/django-1.5.5/quecoins2/quecoins2/templates/bootstrap_base.html",
+		"/Users/Antonio/Devel/django-1.5.5/quecoins2/manage.py",
+		"/Users/Antonio/Devel/home-de-djangoeurope/ej_quecoins/manage.py",
+		"/Users/Antonio/.bash_profile",
+		"/Users/Antonio/Devel/home-de-djangoeurope/lighttpd/lighttpd.conf",
+		"/Users/Antonio/Devel/home-de-djangoeurope/v/local/bin",
+		"/Users/Antonio/Devel/django-1.5.5/quecoins2/example_bootstrap/manage.py",
+		"/Users/Antonio/Devel/home-de-djangoeurope/lighttpd/error.log",
+		"/Users/Antonio/Devel/django-1.5.5/quecoins2/example_bootstrap/settings_deployment.py",
+		"/Users/Antonio/Devel/django-1.5.5/quecoins2/settings_deployment.py",
+		"/Users/Antonio/.ssh/id_pantheon.pub",
+		"/private/var/root/.ssh/id_rsa.pub",
+		"/Users/Antonio/newfile.pub",
+		"/Users/Antonio/.ssh/id_rsa.pub",
+		"/Users/Antonio/.ssh/github_rsa.pub",
+		"/Users/Antonio/Devel/django-1.5.5/qbc2/test/example_bootstrap/templates/base.html",
+		"/Users/Antonio/Devel/django-1.5.5/qbc2/test/example_bootstrap/templates/bootstrap_base.html",
+		"/Users/Antonio/Devel/django-1.5.5/qbc2/test/example_bootstrap/templates/activate.html",
+		"/Users/Antonio/Devel/django-1.5.5/qbc2/test/example_bootstrap/templates/registration/activate.html",
+		"/Users/Antonio/Devel/django-1.5.5/qbc2/test/example_bootstrap/urls.py",
+		"/Users/Antonio/Devel/django-1.5.5/qbc3/README.md",
+		"/Users/Antonio/Devel/django-1.5.5/qbc2/README.rst",
+		"/Users/Antonio/Devel/django-1.5.5/qbc3/setup.py",
+		"/Users/Antonio/Devel/django-1.5.5/qbc2/setup.py",
+		"/Users/Antonio/Devel/django-1.5.5/qbc3/index.html",
+		"/Users/Antonio/.ssh/id_pantheon"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/Antonio/Devel/virtualenv_dj151/tecp2p",
+			"/Users/Antonio/Devel/django-1.6/cryptocoinsblog",
+			"/Users/Antonio/Devel/django-1.6/cryptocoinsblog/cryptocoinsblog",
+			"/Users/Antonio/Devel/django-1.6/quecoins5",
+			"/Users/Antonio/Devel/home-de-djangoeurope/lighttpd",
+			"/Users/Antonio/Devel/home-de-djangoeurope",
+			"/Users/Antonio/Devel/home-de-djangoeurope/lighttpd",
+			"/Users/Antonio/Devel/django-1.6/quecoins5",
+			"/Users/Antonio/Devel/django-1.6/quecoins5/quecoins",
+			"/Users/Antonio/Devel/django-1.6/quecoins5",
+			"/Users/Antonio/Devel/django-1.6/quecoins",
+			"<project>",
+			"/Users/Antonio/Devel/django-1.5.5/quecoins2",
+			"/Users/Antonio/Devel/django-1.5.5/quecoins2/quecoins2",
+			"/Users/Antonio/Devel/django-1.5.5/quecoins2",
+			"/Users/Antonio/Devel/home-de-djangoeurope",
+			"<project>",
+			"/Users/Antonio/Devel/django-1.5.5/quecoins2",
+			"/Users/Antonio/Devel/django-1.5.5/quecoins2/quecoins2",
+			"/Users/Antonio/Devel/django-1.5.5/quecoins2",
+			"/Users/Antonio/Devel/django-1.5.5/quecoins2/quecoins2",
+			"/Users/Antonio/Devel/django-1.5.5/quecoins2",
+			"<project>",
+			"/Users/Antonio/Devel/home-de-djangoeurope",
+			"/Users/Antonio/Devel/django-1.5.5/qbc4",
+			"/Users/Antonio/Devel/virtualenv_dj14",
+			"/Users/Antonio/Devel/virtualenv_myproj2/django-cms-master",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/sites/all/modules",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/sites/all/modules/masonry_fields",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/sites/all/modules/masonry",
+			"<project>",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/sites/all/modules/masonry",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/sites/all/modules/twifago_field",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/modules/system",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/sites/all/libraries/share-button/build/share.min.js",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/sites/all/libraries/share-button/share.min.js",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/sites/all/modules/htmlpurifier",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/sites/all/libraries/share-button/build/share.js",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/sites/all/modules",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh",
+			"/Applications/MAMP/htdocs/drupals/d1/drupal-7.x-dev/",
+			"/Applications/MAMP/htdocs/drupals/d1/drupal-7.x-dev/sites/all/modules/ptv_fields_taxonomy",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/sites/all/themes/tweme",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/modules/block",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/sites/all/modules/mymodules/blocktoggle",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/sites/all/modules/mymodules/blocktoggle",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/sites/all/modules/twifago",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/sites/all/modules/dacs",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/sites/all/modules/dacs/dfdsfdsf.php",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/sites/all/modules/dacs",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/sites/all/modules/dacs/files_hooks.inc",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/sites/all/modules/",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/sites/all/modules/dacs",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/sites/all/modules/dacs",
+			"/Applications/MAMP/htdocs/pantheon/drupalsh/drupalsh/sites/all/modules/conf_param",
+			"/Applications/MAMP/htdocs/drupals/drupal-share-button/sites/all/modules/tfg_share_button/build",
+			"/Applications/MAMP/htdocs/drupals/drupal-share-button/sites/",
+			"/Applications/MAMP/htdocs/drupals/drupal-share-button/sites/all/modules/tfg_share_button",
+			"/Applications/MAMP/htdocs/drupals/drupal-share-button/modules",
+			"<open files>,/Applications/MAMP/htdocs/drupals/nuevodrupal2/modules",
+			"<open files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"filters",
+			"glyphicon",
+			"home",
+			"facebook",
+			"BaseUserManager",
+			"UserManager",
+			"USERNAME_FIELD",
+			"max_length",
+			"max_lenght",
+			"		\n",
+			"css",
+			"Heeeeeeeloooo",
+			"USE_I18N",
+			"LOCALE_PATHS",
+			"LANGUAGES",
+			"LANGUAGE_CODE",
+			"Archives",
+			"google_analytics",
+			"youtube",
+			"cryptocoinsblog",
+			"yotube",
+			"ALLOWED_HOSTS",
+			"pingback_count",
+			"object.",
+			"_entry_detail_base",
+			"zinnia_gallery",
+			"ZINNIA_ENTRY_BASE_MODEL",
+			"AbstractEntry",
+			"quecoins",
+			"weblog",
+			"Zinnia",
+			"Zinnia´s",
+			"staticfiles_urlpatterns",
+			"BASE_PATH",
+			"access",
+			"access.deny-all",
+			"django.contrib.staticfiles",
+			"MEDIA_URL",
+			"os.path.join(",
+			"MEDIA_ROOT",
+			"button::-moz-focus-inner,input::-moz-focus-inner{padding:0",
+			"static",
+			"STATIC_URL",
+			"static",
+			"quecoins5/static",
+			"quecoins5/quecoins5/static",
+			"zinnia.",
+			"example",
+			"example.com",
+			"app_namespace",
+			"demo_zinnia_bootstrap",
+			"ALLOWED_HOSTS ",
+			"TEMPLATE_LOADERS",
+			"SITE_ID",
+			"TEMPLATE_CONTEXT_PROCESSORS",
+			"contrib",
+			"ALLOWED_HOSTS",
+			"example",
+			"example.com",
+			"site",
+			"activation_email",
+			"To activate your account follow this link",
+			"example_bootstrap",
+			"media",
+			"/v/",
+			"v/",
+			"simple",
+			"markup",
+			"django.contrib.markup",
+			"example_bootstrap",
+			"PATH",
+			"SETTINGS",
+			"quecoins",
+			"example_bootstrap",
+			"EMAIL_HOST",
+			"TEMPLATE_CONTEXT_PROCESSORS",
+			"sigleProduct_view",
+			"sigleProdu",
+			"close",
+			"HttpResponseRedirect",
+			"Regresar a la lista",
+			"INSTALLED_APPS",
+			"activos",
+			"64",
+			"keys",
+			"command",
+			"super",
+			"overlay",
+			"show_overlay",
+			"command",
+			"to",
+			"\"command_palette\"",
+			"\"args\": {\"overlay\": \"command_palette\"",
+			"\"args\":",
+			"[\"super+k\", \"super",
+			"[\"super+k\", \"super+a\"]",
+			"K",
+			"num_selections",
+			"options",
+			"    //",
+			"spell",
+			"’|‘",
+			"’",
+			"‘",
+			"Andrew((?=s )|(?=s\\.))",
+			"Andrew(?=s\\b)",
+			"(?<=Star )Training",
+			"(?=^Star )Training",
+			"(?=Star )Training",
+			"(?=^Star )Training",
+			"(?=Star)Training",
+			"(?=Star) Training",
+			"(?= Star )Training",
+			"(?=Star )Training",
+			"(?=Start )Training",
+			"(?= Start)Training",
+			"Training",
+			"Training(?= C2ompany)",
+			"Training(?= Company)",
+			"((\\w(\\d{2}))(( )(\\d{2})))",
+			"(United)( )(States)",
+			"(United)()(States)",
+			"(United) (States)",
+			"[A-Z\\d]{3}C\\d{2}",
+			"Star",
+			"Star Training Company",
+			"\\S*",
+			"car"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tecp2p",
+			"\"",
+			"$1\\n $2\\n $3\\n $4\\n $5\\n $6\\n",
+			"$3_$1.html",
+			"$2 $1",
+			"jQuery",
+			"ptv_fields_taxonomy",
+			"blocktoggle",
+			"twifago",
+			"variable_get('dacs_conf', json_encode(array()))",
+			"variable_get('dacs_conf', array()",
+			"modulesbyhook",
+			"",
+			" ",
+			"\\\\'",
+			"\\'",
+			"dacs",
+			"parameter",
+			"jQuery",
+			"jQuery(",
+			"jQuery",
+			"tfg_share_button"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coffeecompile_output":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 148.0
+	},
+	"output.find_results":
+	{
+		"height": 269.0
+	},
+	"output.sftp":
+	{
+		"height": 98.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"composer",
+				"composer.json"
+			],
+			[
+				"base",
+				"templates/base.html"
+			],
+			[
+				"apps/ventas/views.py",
+				"virtualenv_dj14/demo/demo/apps/ventas/views.py"
+			],
+			[
+				"apps/ventas/forms.py",
+				"virtualenv_dj14/demo/demo/apps/ventas/forms.py"
+			],
+			[
+				"virtualenv_dj14/demo/demo/apps/home/views.py",
+				"virtualenv_dj14/demo/demo/apps/home/views.py"
+			],
+			[
+				"virtualenv_dj14/demo/demo/apps/ventas/models.py",
+				"virtualenv_dj14/demo/demo/apps/ventas/models.py"
+			],
+			[
+				"home/single",
+				"virtualenv_dj14/demo/demo/templates/home/SingleProducto.html"
+			],
+			[
+				"apps/home/views.py",
+				"virtualenv_dj14/demo/demo/apps/home/views.py"
+			],
+			[
+				"apps/ventas/admin",
+				"virtualenv_dj14/demo/demo/apps/ventas/admin.py"
+			],
+			[
+				"ventas/models.py",
+				"virtualenv_dj14/demo/demo/apps/ventas/models.py"
+			],
+			[
+				"apps/venas/mode",
+				"virtualenv_dj14/demo/demo/apps/ventas/models.py"
+			],
+			[
+				"virtualenv_dj14/demo/demo/apps/ventas/views.py",
+				"virtualenv_dj14/demo/demo/apps/ventas/views.py"
+			],
+			[
+				"templates/home/productos.html",
+				"virtualenv_dj14/demo/demo/templates/home/productos.html"
+			],
+			[
+				"templates/home/login.",
+				"virtualenv_dj14/demo/demo/templates/home/login.html"
+			],
+			[
+				"templates/home/sin",
+				"virtualenv_dj14/demo/demo/templates/home/SingleProducto.html"
+			],
+			[
+				"templates/home/conta",
+				"virtualenv_dj14/demo/demo/templates/home/contacto.html"
+			],
+			[
+				"templates/home/productos",
+				"virtualenv_dj14/demo/demo/templates/home/productos.html"
+			],
+			[
+				"virtualenv_dj14/demo/demo/apps/webservices/wsproductos/views.py",
+				"virtualenv_dj14/demo/demo/apps/webServices/wsProductos/views.py"
+			],
+			[
+				"demo/demo/urls",
+				"virtualenv_dj14/demo/demo/urls.py"
+			],
+			[
+				"settings.py",
+				"virtualenv_dj14/demo/demo/settings.py"
+			],
+			[
+				"single",
+				"virtualenv_dj14/demo/demo/templates/home/SingleProducto.html"
+			],
+			[
+				"base.html",
+				"virtualenv_dj14/demo/demo/templates/base.html"
+			],
+			[
+				"apps/home/views",
+				"virtualenv_dj14/demo/demo/apps/home/views.py"
+			],
+			[
+				"demo/apps/home/urls",
+				"virtualenv_dj14/demo/demo/apps/home/urls.py"
+			],
+			[
+				"singlepro",
+				"virtualenv_dj14/demo/demo/templates/home/SingleProducto.html"
+			],
+			[
+				"sddpro",
+				"virtualenv_dj14/demo/demo/templates/ventas/addProducto.html"
+			],
+			[
+				"apps/ventas",
+				"virtualenv_dj14/demo/demo/apps/ventas/views.py"
+			],
+			[
+				"apps/ventas/form",
+				"virtualenv_dj14/demo/demo/apps/ventas/forms.py"
+			],
+			[
+				"apps/ventas/models",
+				"virtualenv_dj14/demo/demo/apps/ventas/models.py"
+			],
+			[
+				"productos.html",
+				"virtualenv_dj14/demo/demo/templates/home/productos.html"
+			],
+			[
+				"apps/home/urls.py",
+				"virtualenv_dj14/demo/demo/apps/home/urls.py"
+			],
+			[
+				"apps/ventas/views",
+				"virtualenv_dj14/demo/demo/apps/ventas/views.py"
+			],
+			[
+				"demo/demo/templates/base.html",
+				"virtualenv_dj14/demo/demo/templates/base.html"
+			],
+			[
+				"demo/demo/urls.py",
+				"virtualenv_dj14/demo/demo/urls.py"
+			],
+			[
+				"ventas/add",
+				"virtualenv_dj14/demo/demo/templates/ventas/addProducto.html"
+			],
+			[
+				"home/abo",
+				"virtualenv_dj14/demo/demo/templates/home/about.html"
+			],
+			[
+				"home/pro",
+				"virtualenv_dj14/demo/demo/templates/home/productos.html"
+			],
+			[
+				"home/conta",
+				"virtualenv_dj14/demo/demo/templates/home/contacto.html"
+			],
+			[
+				"home/index.ht",
+				"virtualenv_dj14/demo/demo/templates/home/index.html"
+			],
+			[
+				"system.module",
+				"drupalsh/modules/system/system.module"
+			],
+			[
+				"dacs.inc",
+				"drupalsh/sites/all/modules/dacs/dacs.inc"
+			],
+			[
+				"dacs-cheat-sheets.inc",
+				"drupalsh/sites/all/modules/dacs/dacs-cheat-sheets.inc"
+			],
+			[
+				"dacs_csheet_row.tpl.php",
+				"drupalsh/sites/all/modules/dacs/dacs_csheet_row.tpl.php"
+			],
+			[
+				"block.tpl.",
+				"modules/block/block.tpl.php"
+			],
+			[
+				"node",
+				"modules/node/node.module"
+			],
+			[
+				"unt",
+				"untitled.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 367.0,
+	"status_bar_visible": true
+}
