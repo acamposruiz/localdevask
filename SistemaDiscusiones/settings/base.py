@@ -82,7 +82,7 @@ AUTHENTICATION_BACKENDS = (
     'django.contrib.auth.backends.ModelBackend',
     )
 
-SOCIAL_AUTH_LOGIN_REDIRECT_URL = '/'
+SOCIAL_AUTH_LOGIN_REDIRECT_URL = '/extra-data/'
 SOCIAL_AUTH_LOGIN_URL = '/error/'
 
 SOCIAL_AUTH_USER_MODEL = 'users.User'
