@@ -2,9 +2,9 @@ from django.shortcuts import render, redirect
 from django.contrib.auth import logout 
 from django.views.generic import View
 
-from .forms import EstraDataView
+from .forms import ExtraDataForm
 
-class EstraDataView(View):
+class ExtraDataView(View):
 	def get(self, request, *args, **kwargs):
 		if request.user.status:
 			return redirect('/')
