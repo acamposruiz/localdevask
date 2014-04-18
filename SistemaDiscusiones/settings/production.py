@@ -37,3 +37,4 @@ DATABASES = {
 STATIC_URL = '/static/'
 STATICFILES_DIRS = [BASE_DIR.child('static')]
 STATIC_ROOT = '/data/localdevask/static_public/'
+FORCE_SCRIPT_NAME = '/'
