@@ -94,3 +94,16 @@ SOCIAL_AUTH_TWITTER_KEY = 'MH7XIENfaDY8dQipoOU44Litw'
 SOCIAL_AUTH_TWITTER_SECRET = 'sT1loL0IxgpyHwHxKJj13pYd3byPUgum9pZKdNpD6COv397CnG'
 
 SOCIAL_AUTH_FACEBOOK_SCOPE = ['email']
+
+SOCIAL_AUTH_PIPELINE = (
+    'social.pipeline.social_auth.social_details',
+    'social.pipeline.social_auth.social_uid',
+    'social.pipeline.social_auth.auth_allowed',
+    'social.pipeline.social_auth.social_user',
+    'social.pipeline.user.get_username',
+    'social.pipeline.user.create_user',
+    'social.pipeline.social_auth.associate_user',
+    'social.pipeline.social_auth.load_extra_data',
+    'social.pipeline.user.user_details',
+    'apps.users.pipelines.get_avatar',
+)

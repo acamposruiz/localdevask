@@ -7,7 +7,7 @@
 		<ul class="nav navbar-nav navbar-right">
 			<li class="contenido-imagen-perfil">
 				<a href="#" class="padding-minus">
-					<img src="{{STATIC_URL}}img/jhonazsh.jpg" class="foto-perfil" alt="">
+					<img src="{{ user.avatar }}" class="foto-perfil" alt="">
 				</a>
 			</li>
 			
@@ -16,7 +16,7 @@
 				<ul class="dropdown-menu">
 					<li><a href="#">Perfil</a></li>
 					<li class="divider"></li>
-					<li><a href="#">Salir <spam class="glyphicon glyphicon-log-out"></spam></a></li>
+					<li><a href="{% url 'users:logout' %}">Salir <spam class="glyphicon glyphicon-log-out"></spam></a></li>
 				</ul>
 			</li>
 		</ul>
