@@ -39,6 +39,6 @@ def send_email(request):
 		to = [request.user.email])
 	msg.template_name = 'welcome'
 	msg.template_content = {
-		'std_content00' = '<h1>Hola %s Bienvenido a DevAsk</h1>' % request.user
+		'std_content00' : '<h1>Hola %s Bienvenido a DevAsk</h1>' % request.user
 	}
 	msg.send()
