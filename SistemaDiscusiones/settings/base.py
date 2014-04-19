@@ -36,6 +36,7 @@ DJANGO_APPS = (
 THIRD_PARTY_APPS = (
     'south',
     'social.apps.django_app.default',
+    'djrill',
 )
 
 LOCAL_APPS = (
@@ -107,3 +108,7 @@ SOCIAL_AUTH_PIPELINE = (
     'social.pipeline.user.user_details',
     'apps.users.pipelines.get_avatar',
 )
+
+EMAIL_BACKEND = 'djrill.mail.backends.djrill.DjrillBackend'
+
+MANDRILL_API_KEY = 'Lx5rMo4gJHqah9xCkPamhw'

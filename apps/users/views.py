@@ -1,6 +1,7 @@
 from django.shortcuts import render, redirect
 from django.contrib.auth import logout 
 from django.views.generic import View
+from django.core.mail import EmailMessage
 
 from .forms import ExtraDataForm
 
@@ -18,6 +19,7 @@ class ExtraDataView(View):
 			request.user.email = request.POST['email']
 			request.user.status = True
 			request.user.save()
+			send_email(request)
 			return redirect('/')
 		else:
 			error_username = form['username'].errors.as_text()
@@ -30,3 +32,13 @@ def LogOut(request):
 	logout(request)
 	return redirect('/')
 
+def send_email(request):
+
+	msg = EmailMessage(subject='Bienvenida',
+		from_email="swedenvan@gmail.com",
+		to = [request.user.email])
+	msg.template_name = 'welcome'
+	msg.template_content = {
+		'std_content00' = '<h1>Hola %s Bienvenido a DevAsk</h1>' % request.user
+	}
+	msg.send()
