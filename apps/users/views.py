@@ -49,7 +49,7 @@ def send_email(request):
 class UserDetailView(DetailView):
 
 	model = User
-	context_object_name = 'user'
+	context_object_name = 'userprofile'
 	slug_field = 'username'
 
 	def get_context_data(self, **kwargs):
